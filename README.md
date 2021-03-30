@@ -8,6 +8,4 @@ Navigation
 
 * About
 
-# Home Page
-
-
+**Home Page**
