@@ -1,6 +1,6 @@
 # Home
 
-Navigation
+## **Navigation**
 
 * Home
 
@@ -8,4 +8,4 @@ Navigation
 
 * About
 
-**Home Page**
+## **Home Page**
