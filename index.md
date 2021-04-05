@@ -17,7 +17,7 @@
                             <a class="selected" href="https://cmmamutuk.github.io/engacad/">Home</a>
                         </li>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/engacad/projects">Projects</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/projects/projects">Projects</a>
                         </li>
                         <li>
                             <a class="selected" href="https://cmmamutuk.github.io/engacad/about">About</a>
