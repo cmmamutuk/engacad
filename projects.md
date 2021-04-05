@@ -33,10 +33,10 @@
                     <p>Content:</p>
                     <ul>
                         <li>
-                            <a href=#projectsdone>Projects</a>
+                            <a href="#projectsdone">Projects</a>
                         </li>
                         <li>
-                            <a href=#skillsandfab>Skills and Fabrication</a>
+                            <a href="#skillsandfab">Skills and Fabrication</a>
                         </li>
                     </ul>
 
