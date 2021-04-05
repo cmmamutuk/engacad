@@ -26,7 +26,7 @@
                 </div>
 
                 <div id="main" class="main" >
-                    <h2>Home Page</h2>
+                    <h2>Home</h2>
 
                     <p>Hi welcome to my website.</p>
                     <p>I will be documenting the projects I have done, my experiences, the skills I learned along the way, mistakes I've made and my products too.</p>
