@@ -14,13 +14,13 @@
                     <h3></h3>
                     <ul>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/homepage">Home</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/">Home</a>
                         </li>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/projects">Projects</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/projects/projects">Projects</a>
                         </li>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/about">About</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/about">About</a>
                         </li>
                     </ul>
                 </div>
