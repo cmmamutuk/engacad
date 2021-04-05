@@ -60,9 +60,7 @@
                             <a class="selected" href="https://cmmamutuk.github.io/engacadprojects/webdesign">Website building on GitHub using HTML and CSS</a>
                         </li>
                     </ul>
-                    <!--comment-->
-
-
+      
                 </div>
             </div>
             <div id="footer">
