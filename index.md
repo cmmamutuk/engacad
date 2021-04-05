@@ -17,10 +17,10 @@
                             <a class="selected" href="https://cmmamutuk.github.io/engacad/">Home</a>
                         </li>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/projects">Projects</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/projects">Projects</a>
                         </li>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/about">About</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad/about">About</a>
                         </li>
                     </ul>
                 </div>
