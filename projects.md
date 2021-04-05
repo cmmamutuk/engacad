@@ -14,7 +14,7 @@
                     <h3></h3>
                     <ul>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/homepage">Home</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacad">Home</a>
                         </li>
                         <li>
                             <a class="selected" href="https://cmmamutuk.github.io/engacad/projects">Projects</a>
