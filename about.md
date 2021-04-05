@@ -28,7 +28,6 @@
                 <div id="main" class="main" >
                     <h2>About Me</h2>
                     
-                    <h1>&nbsp;</h1>
                     <img src="images/me.jpg" alt="Profile Pic" style="float:inline-start; width: 200px;height: 256px;">
 
                     <p>Hi my name is Martin. I'm currently a student studying at Singapore Polytechnic in the Diploma of Electrical and Electronic Engineering and a student of the Engineering Academy Program.</p>
