@@ -33,10 +33,10 @@
                     <p>Content:</p>
                     <ul>
                         <li>
-                            <a class="selected" href=#projectsdone>Projects</a>
+                            <a href=#projectsdone>Projects</a>
                         </li>
                         <li>
-                            <a class="selected" href=#skillsandfab>Skills and Fabrication</a>
+                            <a href=#skillsandfab>Skills and Fabrication</a>
                         </li>
                     </ul>
 
@@ -57,7 +57,7 @@
 
                     <ul>
                         <li>
-                            <a class="selected" href="https://cmmamutuk.github.io/projects/webdesign">Website building on GitHub using HTML and CSS</a>
+                            <a class="selected" href="https://cmmamutuk.github.io/engacadprojects/webdesign">Website building on GitHub using HTML and CSS</a>
                         </li>
                     </ul>
 
