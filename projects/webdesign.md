@@ -9,7 +9,7 @@
                 <h1>engacad</h1>
 
             </div>
-            <div id="content" class="content">
+            <div id="content" class="dcontent">
                 <div id="nav" class="nav" >
                     <h3></h3>
                     <ul>
