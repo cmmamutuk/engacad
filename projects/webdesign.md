@@ -9,7 +9,7 @@
                 <h1>engacad</h1>
 
             </div>
-            <div id="content" class="dcontent">
+            <div id="content" class="content">
                 <div id="nav" class="nav" >
                     <h3></h3>
                     <ul>
@@ -64,7 +64,7 @@
                     
 
 
-                    <h2 id="#creating-html-file">Creating and Coding an HTML file</h2>
+                    <h2 id="creating-html-file">Creating and Coding an HTML file</h2>
                     <p>To start making the webpage, I started by creating a .txt file but renaming the end of it to create the file in the .html format. This can be done by right-clicking on a blank are in File Explorer and set View to Details. This allows you to see the entirety of the file including its fornat and allows you to change it. When trying to create links to your other webpages, use the &lt;a href="" &gt;&lt;/a&gt; command and insert your website name adding the "/filename.html" at the end of the link to direct it to the file.</p>
                     
                     <h6>Image here kusa</h6>
